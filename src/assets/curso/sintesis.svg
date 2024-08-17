@@ -1,81 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1224.274" height="695" viewBox="0 0 1224.274 695">
-  <g id="Grupo_1101501" data-name="Grupo 1101501" transform="translate(-180.333 -132)">
+<svg xmlns="http://www.w3.org/2000/svg" width="1224.274" height="686.413" viewBox="0 0 1224.274 686.413">
+  <g id="Grupo_1105560" data-name="Grupo 1105560" transform="translate(-180.333 -132)">
     <g id="g4" transform="translate(1315 132)">
       <g id="g6-0">
         <path id="path8-1" d="M771.728,2781.09a9.7,9.7,0,1,0,9.722,9.7,9.712,9.712,0,0,0-9.722-9.7Zm12.64,22.395-.009,8.887-7.832-8.883-7.384,0v13.04l5.421,0,.078-8.641,7.546,8.635,7.593.027.067-13.026-5.479-.035Zm-33.337,0h0l-.1,13.054,15.76-.018.014-2.906-10-.009.042-2.461,8.89-.039v-2.781l-8.849.164v-2.056l9.584-.026.019-2.908-15.357-.012Zm54.364,0h-6.28l-8.9,13.047,5.654.008,1.351-2.491,9.168.045,1.362,2.438,6.069,0Zm-65.024,0c-.3,0-.636,0-1.027,0a18.782,18.782,0,0,0-3.026.15,10.375,10.375,0,0,0-3.6,1.005,3.44,3.44,0,0,0-1.647,1.7,3.481,3.481,0,0,0-.147.856,2.777,2.777,0,0,0,.292,1.392,2.088,2.088,0,0,0,.37.538,5.581,5.581,0,0,0,3.007,1.5,42.679,42.679,0,0,0,4.312.864,17.77,17.77,0,0,1,2.609.531,2.965,2.965,0,0,1,1.058.546.569.569,0,0,1-.108.814,3.021,3.021,0,0,1-1.529.545,13.536,13.536,0,0,1-2.73-.034c-1.051-.16-1.7-.51-1.838-1a2.527,2.527,0,0,1-.054-.423l-.018-.3-.4-.01c-.223,0-1.487,0-2.81.01l-2.409.018v.174a5.2,5.2,0,0,0,.12.937c.341,1.415,1.438,2.3,3.438,2.79a18.48,18.48,0,0,0,2.629.4c.884.066,2.688.088,3.846.046,4.1-.15,6.858-1.127,7.7-2.722a2.629,2.629,0,0,0,.307-1.266,2.692,2.692,0,0,0-.485-1.6,4.127,4.127,0,0,0-2.146-1.512,21.689,21.689,0,0,0-4.4-1,24.731,24.731,0,0,1-3.614-.726,2.124,2.124,0,0,1-1.058-.625.6.6,0,0,1,0-.447c.147-.322.808-.566,1.729-.642a11.441,11.441,0,0,1,2.132.063,3.1,3.1,0,0,1,1.514.561,1.383,1.383,0,0,1,.3.568c.032.124.056.166.1.173s1.232.01,2.673.01l2.621-.01.009-.16a3.116,3.116,0,0,0-.13-.855c-.434-1.472-2.034-2.359-4.9-2.719a18.722,18.722,0,0,0-2.685-.142Zm61.558,3.207,2.816,4.745-5.8-.035Zm-33.775,12.606-41.522.031v6.9h13.384c12.828,0,13.394.009,13.781.19a1.673,1.673,0,0,1,.9,1.491c.1,1.1.276-.055-10.019,17.907l-6.109,10.488,4.936,4.638,24.647-41.649Zm6.462.036,24.681,41.535,5.027-4.58-6.192-10.516c-10.321-17.726-10.128-16.851-10.029-17.936a1.647,1.647,0,0,1,.905-1.472c.388-.177.956-.189,13.816-.189h13.416v-6.813l-41.623-.031Zm-3.344,7.264-22.464,38.2,5.847,2.771,12.8-21.821,2.142-3.84c.279-.5.618-.691,1.644-.695a1.781,1.781,0,0,1,1.656.685l2.359,3.942,13.084,21.945,5.974-3.369-23.042-37.82Z" transform="translate(-726.632 -2781.09)" fill="#39a900" fill-rule="evenodd"/>
       </g>
     </g>
-    <text id="Estructura_del_brief" data-name="Estructura del brief" transform="translate(206 145)" fill="#12263f" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Estructura del brief</tspan></text>
-    <text id="Síntesis" transform="translate(206.333 184)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Síntesis</tspan></text>
+    <path id="Trazado_877393" data-name="Trazado 877393" d="M1.377,22V8H10.1v3.3H5.6v2.041H9.824v3.3H5.6V18.7H10.42V22Zm18.779-3.32a3.054,3.054,0,0,1-1.294,2.632,6.082,6.082,0,0,1-3.608.933,12.546,12.546,0,0,1-1.665-.137,10.286,10.286,0,0,1-1.616-.332v-2.92a7.958,7.958,0,0,0,3.086.82q1.221,0,1.221-.635A.5.5,0,0,0,16,18.606a10.01,10.01,0,0,0-1.484-.571,4.192,4.192,0,0,1-1.934-1.113,2.647,2.647,0,0,1-.605-1.807,2.883,2.883,0,0,1,1.235-2.456,5.8,5.8,0,0,1,3.472-.9,11.035,11.035,0,0,1,2.773.381v2.8a8.387,8.387,0,0,0-1.348-.439,5.443,5.443,0,0,0-1.23-.176,1.339,1.339,0,0,0-.654.137.421.421,0,0,0-.244.381.531.531,0,0,0,.264.459,4.664,4.664,0,0,0,1.055.42,4.894,4.894,0,0,1,2.2,1.152A2.525,2.525,0,0,1,20.156,18.68Zm8.574,3.184a4.053,4.053,0,0,1-.928.259,8.482,8.482,0,0,1-1.553.122,3.73,3.73,0,0,1-2.72-.957,3.632,3.632,0,0,1-.981-2.725V14.881H20.977V12h1.572V10.037L26.65,8.9V12h2.08v2.881H26.65v3q0,1.318,1.045,1.318a2.835,2.835,0,0,0,1.035-.215Zm8.818-6.3a4,4,0,0,0-1.3-.283q-2.061,0-2.061,2.383V22h-4.16V12h4.16v1.758h.039a3.123,3.123,0,0,1,1.084-1.44,2.785,2.785,0,0,1,1.641-.493,1.409,1.409,0,0,1,.6.117ZM45.117,22V20.457h-.039a5.473,5.473,0,0,1-.933,1.045,3.589,3.589,0,0,1-.937.537,3.315,3.315,0,0,1-1.216.205,3.025,3.025,0,0,1-2.5-1.064,4.921,4.921,0,0,1-.859-3.145V12h4.16v5.723q0,1.475,1.1,1.475a1.08,1.08,0,0,0,.913-.4,1.825,1.825,0,0,0,.308-1.133V12h4.16V22Zm14.395-.283a3.922,3.922,0,0,1-1.26.381,11.91,11.91,0,0,1-1.982.146,6.1,6.1,0,0,1-2.827-.64,4.667,4.667,0,0,1-1.929-1.792,4.975,4.975,0,0,1-.684-2.588,5.667,5.667,0,0,1,.728-2.944,4.743,4.743,0,0,1,2.075-1.875,7.119,7.119,0,0,1,3.125-.649,10.933,10.933,0,0,1,1.753.127,2.678,2.678,0,0,1,1,.293v3.242a2.889,2.889,0,0,0-.9-.43,3.609,3.609,0,0,0-1.084-.186,2.639,2.639,0,0,0-1.851.581,2.114,2.114,0,0,0-.63,1.636,2.075,2.075,0,0,0,.62,1.606,2.419,2.419,0,0,0,1.7.571,4.244,4.244,0,0,0,2.139-.557Zm8.7.146a4.053,4.053,0,0,1-.928.259,8.482,8.482,0,0,1-1.553.122,3.73,3.73,0,0,1-2.72-.957,3.632,3.632,0,0,1-.981-2.725V14.881H60.459V12h1.572V10.037l4.1-1.133V12h2.08v2.881h-2.08v3q0,1.318,1.045,1.318a2.835,2.835,0,0,0,1.035-.215ZM75.879,22V20.457H75.84a5.473,5.473,0,0,1-.933,1.045,3.589,3.589,0,0,1-.937.537,3.315,3.315,0,0,1-1.216.205,3.025,3.025,0,0,1-2.5-1.064,4.921,4.921,0,0,1-.859-3.145V12h4.16v5.723q0,1.475,1.1,1.475a1.08,1.08,0,0,0,.913-.4,1.825,1.825,0,0,0,.308-1.133V12h4.16V22Zm13.672-6.436a4,4,0,0,0-1.3-.283q-2.061,0-2.061,2.383V22h-4.16V12h4.16v1.758h.039a3.123,3.123,0,0,1,1.084-1.44,2.785,2.785,0,0,1,1.641-.493,1.409,1.409,0,0,1,.6.117ZM96.3,22V20.477H96.26a3.272,3.272,0,0,1-3.047,1.768A2.917,2.917,0,0,1,91,21.4a3.12,3.12,0,0,1-.8-2.246q0-2.949,3.623-3.418l2.48-.322a.946.946,0,0,0-.439-.8,2,2,0,0,0-1.182-.312,7.783,7.783,0,0,0-3.545.957V12.557a9.484,9.484,0,0,1,2.031-.576,11.822,11.822,0,0,1,2.09-.225,5.247,5.247,0,0,1,3.7,1.089,4.853,4.853,0,0,1,1.147,3.638V22Zm-2.461-3.4a.922.922,0,0,0,.259.674.987.987,0,0,0,.737.264,1.311,1.311,0,0,0,1.06-.488A1.892,1.892,0,0,0,96.3,17.8V17.42l-1.406.2Q93.838,17.791,93.838,18.6ZM114.209,22V20.838h-.039a3.433,3.433,0,0,1-1.3,1.03,3.7,3.7,0,0,1-1.582.376,4.07,4.07,0,0,1-2.256-.63,3.825,3.825,0,0,1-1.46-1.763,6.784,6.784,0,0,1-.483-2.676,6.583,6.583,0,0,1,.576-2.822,4.51,4.51,0,0,1,1.621-1.914,4.188,4.188,0,0,1,2.344-.684,3.547,3.547,0,0,1,1.138.176,3.078,3.078,0,0,1,.908.474,1.414,1.414,0,0,1,.493.591h.039V7.2h4.16V22Zm.088-5.3a2.194,2.194,0,0,0-.4-1.4,1.335,1.335,0,0,0-2.168.122,2.881,2.881,0,0,0-.425,1.655q0,2.119,1.465,2.119a1.3,1.3,0,0,0,1.108-.571,2.812,2.812,0,0,0,.415-1.665Zm9.658,1.484a1.405,1.405,0,0,0,.742,1.011,3.347,3.347,0,0,0,1.68.366A6.917,6.917,0,0,0,129.131,19v2.637a9.9,9.9,0,0,1-3.672.605,5.794,5.794,0,0,1-4.072-1.338,4.753,4.753,0,0,1-1.455-3.682,6.074,6.074,0,0,1,.64-2.842,4.6,4.6,0,0,1,1.895-1.929,5.6,5.6,0,0,1,2.769-.7,5.447,5.447,0,0,1,2.656.605,4.033,4.033,0,0,1,1.675,1.7,5.452,5.452,0,0,1,.571,2.559v1.563Zm2.5-2.178q0-1.729-1.24-1.729a1.049,1.049,0,0,0-.869.474,2.364,2.364,0,0,0-.41,1.255Zm5.117,6V7.2h4.16V22Zm23-5.3a7.318,7.318,0,0,1-.542,2.905,4.417,4.417,0,0,1-1.538,1.953,3.873,3.873,0,0,1-2.256.688,3.561,3.561,0,0,1-1.655-.356,2.981,2.981,0,0,1-1.089-.923h-.039V22h-4.16V7.2h4.16v6.162h.039a3.425,3.425,0,0,1,1.323-1.172,3.963,3.963,0,0,1,1.841-.43,3.508,3.508,0,0,1,2.905,1.26A5.777,5.777,0,0,1,154.57,16.7Zm-4.219.127a2.482,2.482,0,0,0-.386-1.514,1.389,1.389,0,0,0-2.168.024,2.148,2.148,0,0,0-.425,1.382v.605a2.227,2.227,0,0,0,.381,1.367,1.216,1.216,0,0,0,1.025.508,1.314,1.314,0,0,0,1.162-.62A3.166,3.166,0,0,0,150.352,16.824Zm13.3-1.26a4,4,0,0,0-1.3-.283q-2.061,0-2.061,2.383V22h-4.16V12h4.16v1.758h.039a3.123,3.123,0,0,1,1.084-1.44,2.785,2.785,0,0,1,1.641-.493,1.409,1.409,0,0,1,.6.117Zm5.605-6.26a1.787,1.787,0,0,1-.64,1.426,2.5,2.5,0,0,1-1.685.547,2.441,2.441,0,0,1-1.665-.566,1.791,1.791,0,0,1-.649-1.406,1.734,1.734,0,0,1,.63-1.392,2.932,2.932,0,0,1,3.369,0A1.723,1.723,0,0,1,169.258,9.3Zm-4.4,12.7V12h4.16V22Zm9.746-3.818a1.405,1.405,0,0,0,.742,1.011,3.347,3.347,0,0,0,1.68.366A6.917,6.917,0,0,0,179.775,19v2.637a9.9,9.9,0,0,1-3.672.605,5.794,5.794,0,0,1-4.072-1.338,4.753,4.753,0,0,1-1.455-3.682,6.074,6.074,0,0,1,.64-2.842,4.6,4.6,0,0,1,1.895-1.929,5.6,5.6,0,0,1,2.769-.7,5.447,5.447,0,0,1,2.656.605,4.033,4.033,0,0,1,1.675,1.7,5.452,5.452,0,0,1,.571,2.559v1.563ZM177.1,16q0-1.729-1.24-1.729a1.049,1.049,0,0,0-.869.474A2.364,2.364,0,0,0,174.58,16Zm12.822-5.781a3.665,3.665,0,0,0-1.2-.225,1.338,1.338,0,0,0-1.025.356,1.355,1.355,0,0,0-.332.962V12h2.314v2.881h-2.314V22H183.2V14.881h-1.68V12h1.68v-.918a4.065,4.065,0,0,1,.566-2.153,3.778,3.778,0,0,1,1.646-1.45,6.025,6.025,0,0,1,2.622-.518,7.118,7.118,0,0,1,1.885.215Z" transform="translate(206 145)" fill="#12263f"/>
+    <path id="Trazado_877392" data-name="Trazado 877392" d="M.945,16.547V15a3,3,0,0,0,.637.422,5.159,5.159,0,0,0,.781.316,6.219,6.219,0,0,0,.824.2,4.6,4.6,0,0,0,.766.07,3,3,0,0,0,1.809-.449,1.685,1.685,0,0,0,.4-2.082,2.244,2.244,0,0,0-.551-.613,5.465,5.465,0,0,0-.832-.531q-.48-.254-1.035-.535-.586-.3-1.094-.6a4.739,4.739,0,0,1-.883-.672,2.8,2.8,0,0,1-.59-.832A2.575,2.575,0,0,1,.961,8.6,2.563,2.563,0,0,1,1.3,7.27a2.881,2.881,0,0,1,.883-.934,4,4,0,0,1,1.246-.547,5.706,5.706,0,0,1,1.426-.18,5.464,5.464,0,0,1,2.414.4V7.484A4.376,4.376,0,0,0,4.719,6.8a4.189,4.189,0,0,0-.859.09,2.428,2.428,0,0,0-.766.293,1.7,1.7,0,0,0-.547.523,1.389,1.389,0,0,0-.211.781,1.608,1.608,0,0,0,.16.742,1.819,1.819,0,0,0,.473.57,4.708,4.708,0,0,0,.762.5q.449.242,1.035.531.6.3,1.141.625a5.214,5.214,0,0,1,.945.727,3.229,3.229,0,0,1,.645.883,2.482,2.482,0,0,1,.238,1.109,2.813,2.813,0,0,1-.324,1.4,2.661,2.661,0,0,1-.875.934,3.822,3.822,0,0,1-1.27.52,6.953,6.953,0,0,1-1.516.16,6.176,6.176,0,0,1-.656-.043Q2.7,17.1,2.3,17.02a6.5,6.5,0,0,1-.77-.2A2.394,2.394,0,0,1,.945,16.547ZM11.078,17H9.8V9h1.281ZM12.227,4.922,10.18,7.484H9.188L10.93,4.922ZM20.313,17H19.031V12.438q0-2.547-1.859-2.547a2.017,2.017,0,0,0-1.59.723,2.679,2.679,0,0,0-.629,1.824V17H13.672V9h1.281v1.328h.031a2.887,2.887,0,0,1,2.625-1.516,2.448,2.448,0,0,1,2.008.848,3.776,3.776,0,0,1,.7,2.449Zm6.125-.078a2.47,2.47,0,0,1-1.2.25q-2.1,0-2.1-2.344V10.094H21.766V9h1.375V7.047l1.281-.414V9h2.016v1.094H24.422V14.6A1.869,1.869,0,0,0,24.7,15.75a1.091,1.091,0,0,0,.906.344,1.347,1.347,0,0,0,.836-.266Zm8.141-3.6H28.93a2.992,2.992,0,0,0,.719,2.063,2.478,2.478,0,0,0,1.891.727,3.931,3.931,0,0,0,2.484-.891v1.2a4.643,4.643,0,0,1-2.789.766A3.381,3.381,0,0,1,28.57,16.1a4.461,4.461,0,0,1-.969-3.066A4.375,4.375,0,0,1,28.66,9.988a3.394,3.394,0,0,1,2.629-1.176,3.008,3.008,0,0,1,2.43,1.016,4.234,4.234,0,0,1,.859,2.82Zm-1.312-1.086a2.607,2.607,0,0,0-.535-1.727,1.823,1.823,0,0,0-1.465-.617,2.07,2.07,0,0,0-1.539.648,2.943,2.943,0,0,0-.781,1.7Zm2.766,4.477V15.336a3.792,3.792,0,0,0,2.3.773q1.688,0,1.688-1.125a.976.976,0,0,0-.145-.543,1.44,1.44,0,0,0-.391-.395,3.007,3.007,0,0,0-.578-.309q-.332-.137-.715-.285a9.207,9.207,0,0,1-.934-.426,2.82,2.82,0,0,1-.672-.484,1.8,1.8,0,0,1-.406-.613,2.17,2.17,0,0,1-.137-.8,1.912,1.912,0,0,1,.258-1,2.286,2.286,0,0,1,.688-.727,3.206,3.206,0,0,1,.98-.441,4.349,4.349,0,0,1,1.137-.148,4.59,4.59,0,0,1,1.859.359v1.3a3.624,3.624,0,0,0-2.031-.578,2.374,2.374,0,0,0-.648.082,1.587,1.587,0,0,0-.5.23,1.065,1.065,0,0,0-.32.355.936.936,0,0,0-.113.457,1.1,1.1,0,0,0,.113.523,1.152,1.152,0,0,0,.332.375,2.538,2.538,0,0,0,.531.3q.312.133.711.289a9.894,9.894,0,0,1,.953.418,3.269,3.269,0,0,1,.719.484,1.893,1.893,0,0,1,.457.621,2,2,0,0,1,.16.836,1.971,1.971,0,0,1-.262,1.031,2.243,2.243,0,0,1-.7.727,3.2,3.2,0,0,1-1.008.43,4.976,4.976,0,0,1-1.2.141A4.539,4.539,0,0,1,36.031,16.711Zm7.93-9.742a.812.812,0,0,1-.586-.234.791.791,0,0,1-.242-.594.821.821,0,0,1,.828-.836.827.827,0,0,1,.6.238.835.835,0,0,1,0,1.184A.82.82,0,0,1,43.961,6.969ZM44.586,17H43.3V9h1.281Zm2.109-.289V15.336a3.792,3.792,0,0,0,2.3.773q1.688,0,1.688-1.125a.976.976,0,0,0-.145-.543,1.44,1.44,0,0,0-.391-.395,3.007,3.007,0,0,0-.578-.309q-.332-.137-.715-.285a9.207,9.207,0,0,1-.934-.426,2.82,2.82,0,0,1-.672-.484,1.8,1.8,0,0,1-.406-.613,2.17,2.17,0,0,1-.137-.8,1.912,1.912,0,0,1,.258-1,2.286,2.286,0,0,1,.688-.727,3.206,3.206,0,0,1,.98-.441,4.349,4.349,0,0,1,1.137-.148,4.59,4.59,0,0,1,1.859.359v1.3A3.624,3.624,0,0,0,49.6,9.891a2.374,2.374,0,0,0-.648.082,1.587,1.587,0,0,0-.5.23,1.065,1.065,0,0,0-.32.355.936.936,0,0,0-.113.457,1.1,1.1,0,0,0,.113.523,1.152,1.152,0,0,0,.332.375,2.538,2.538,0,0,0,.531.3q.312.133.711.289a9.894,9.894,0,0,1,.953.418,3.269,3.269,0,0,1,.719.484,1.893,1.893,0,0,1,.457.621,2,2,0,0,1,.16.836,1.971,1.971,0,0,1-.262,1.031,2.243,2.243,0,0,1-.7.727,3.2,3.2,0,0,1-1.008.43,4.976,4.976,0,0,1-1.2.141A4.539,4.539,0,0,1,46.7,16.711Z" transform="translate(206.333 184)" fill="#12263f"/>
     <rect id="Rectángulo_33766" data-name="Rectángulo 33766" width="8" height="81" transform="translate(180.333 132)" fill="#39a900"/>
-    <g id="Grupo_1101500" data-name="Grupo 1101500">
-      <g id="Grupo_1099630" data-name="Grupo 1099630" transform="translate(33 -44)">
-        <rect id="Rectángulo_401074" data-name="Rectángulo 401074" width="321" height="74" transform="translate(638.333 377)" fill="#62529b"/>
-        <g id="Rectángulo_401075" data-name="Rectángulo 401075" transform="translate(399.333 530)" fill="none" stroke="#26aab7" stroke-width="2">
-          <rect width="304" height="40" stroke="none"/>
-          <rect x="1" y="1" width="302" height="38" fill="none"/>
-        </g>
-        <g id="Rectángulo_401202" data-name="Rectángulo 401202" transform="translate(902.333 530)" fill="none" stroke="#26aab7" stroke-width="2">
-          <rect width="304" height="40" stroke="none"/>
-          <rect x="1" y="1" width="302" height="38" fill="none"/>
-        </g>
-        <g id="Rectángulo_401191" data-name="Rectángulo 401191" transform="translate(399.333 698)" fill="none" stroke="#26aab7" stroke-width="2">
-          <rect width="304" height="40" stroke="none"/>
-          <rect x="1" y="1" width="302" height="38" fill="none"/>
-        </g>
-        <g id="Rectángulo_401198" data-name="Rectángulo 401198" transform="translate(902.333 659)" fill="none" stroke="#26aab7" stroke-width="2">
-          <rect width="304" height="40" stroke="none"/>
-          <rect x="1" y="1" width="302" height="38" fill="none"/>
-        </g>
-        <g id="Rectángulo_401190" data-name="Rectángulo 401190" transform="translate(399.333 600)" fill="none" stroke="#26aab7" stroke-width="2">
-          <rect width="304" height="75" stroke="none"/>
-          <rect x="1" y="1" width="302" height="73" fill="none"/>
-        </g>
-        <g id="Rectángulo_401201" data-name="Rectángulo 401201" transform="translate(902.333 600)" fill="none" stroke="#26aab7" stroke-width="2">
-          <rect width="304" height="38" stroke="none"/>
-          <rect x="1" y="1" width="302" height="36" fill="none"/>
-        </g>
-        <g id="Rectángulo_401192" data-name="Rectángulo 401192" transform="translate(327.333 778)" fill="none" stroke="#7d6eb2" stroke-width="2">
-          <rect width="208" height="38" stroke="none"/>
-          <rect x="1" y="1" width="206" height="36" fill="none"/>
-        </g>
-        <g id="Rectángulo_401195" data-name="Rectángulo 401195" transform="translate(545.333 778)" fill="none" stroke="#7d6eb2" stroke-width="2">
-          <rect width="208" height="38" stroke="none"/>
-          <rect x="1" y="1" width="206" height="36" fill="none"/>
-        </g>
-        <g id="Rectángulo_401193" data-name="Rectángulo 401193" transform="translate(327.333 833)" fill="none" stroke="#7d6eb2" stroke-width="2">
-          <rect width="208" height="38" stroke="none"/>
-          <rect x="1" y="1" width="206" height="36" fill="none"/>
-        </g>
-        <g id="Rectángulo_401194" data-name="Rectángulo 401194" transform="translate(545.333 833)" fill="none" stroke="#7d6eb2" stroke-width="2">
-          <rect width="208" height="38" stroke="none"/>
-          <rect x="1" y="1" width="206" height="36" fill="none"/>
-        </g>
-        <line id="Línea_139" data-name="Línea 139" y2="20.096" transform="translate(799.486 451.474)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_163" data-name="Línea 163" x2="513" transform="translate(551.833 470.979)" fill="none" stroke="#707070" stroke-width="1"/>
-        <text id="Estructura_del_brief-2" data-name="Estructura del brief" transform="translate(800.333 424)" fill="#fff" font-size="27" font-family="SegoeUIBlack, Segoe UI"><tspan x="-127.703" y="0">Estructura del </tspan><tspan y="0" font-family="SegoeUIBlack-Italic, Segoe UI" font-style="italic">brief</tspan></text>
-        <text id="Segmentación_del_Mercado" data-name="Segmentación del Mercado" transform="translate(548.333 557)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-109.015" y="0">Segmentación del Mercado</tspan></text>
-        <text id="Tipos_de_brief_publicitarios" data-name="Tipos de brief publicitarios" transform="translate(1054.333 557)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-104.52" y="0">Tipos de </tspan><tspan y="0" font-family="SegoeUI-Italic, Segoe UI" font-style="italic">brief</tspan><tspan y="0" xml:space="preserve"> publicitarios</tspan></text>
-        <text id="Proceso_de_segmentación" data-name="Proceso de segmentación" transform="translate(548.333 725)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-102.045" y="0">Proceso de segmentación</tspan></text>
-        <text id="Brief_de_campaña_táctica" data-name="Brief de campaña táctica" transform="translate(1054.333 686)" fill="#12263f" font-size="18" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-96.904" y="0">Brief</tspan><tspan y="0" xml:space="preserve" font-family="SegoeUI, Segoe UI" font-style="normal"> de campaña táctica</tspan></text>
-        <text id="Dividir_mercado_para_obtener_mejor_resultado_" data-name="Dividir mercado para obtener
-mejor resultado " transform="translate(548.333 627)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-116.71" y="0">Dividir mercado para obtener</tspan><tspan x="-65.101" y="28">mejor resultado </tspan></text>
-        <text id="Brief_de_primer_contacto" data-name="Brief de primer contacto" transform="translate(1054.333 627)" fill="#12263f" font-size="18" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-95.95" y="0">Brief </tspan><tspan y="0" font-family="SegoeUI, Segoe UI" font-style="normal">de primer contacto</tspan></text>
-        <text id="Segmentación_industrial" data-name="Segmentación industrial" transform="translate(430.333 803)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-95.739" y="0">Segmentación industrial</tspan></text>
-        <text id="Ubicación_Geográfica" data-name="Ubicación Geográfica" transform="translate(648.333 803)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-84.454" y="0">Ubicación Geográfica</tspan></text>
-        <text id="Tamaño_de_la_empresa" data-name="Tamaño de la empresa" transform="translate(430.333 858)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-89.125" y="0">Tamaño de la empresa</tspan></text>
-        <text id="Actividad_económica" data-name="Actividad económica" transform="translate(648.333 858)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-82.499" y="0">Actividad económica</tspan></text>
-        <line id="Línea_189" data-name="Línea 189" y1="59" transform="translate(551.833 471.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_190" data-name="Línea 190" y2="30" transform="translate(551.833 570.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_191" data-name="Línea 191" y2="24" transform="translate(551.833 675.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_192" data-name="Línea 192" y2="40" transform="translate(438.833 738.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_193" data-name="Línea 193" y2="17" transform="translate(438.833 816.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_194" data-name="Línea 194" y2="40" transform="translate(658.833 738.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_195" data-name="Línea 195" y2="17" transform="translate(658.833 816.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_196" data-name="Línea 196" y2="59" transform="translate(1064.833 471.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_197" data-name="Línea 197" y1="30" transform="translate(1064.833 570.5)" fill="none" stroke="#707070" stroke-width="1"/>
-        <line id="Línea_198" data-name="Línea 198" y1="21" transform="translate(1064.833 638.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Grupo_1101875" data-name="Grupo 1101875" transform="translate(-44.804)">
+      <rect id="Rectángulo_401074" data-name="Rectángulo 401074" width="321" height="74" transform="translate(660.333 327)" fill="#62529b"/>
+      <g id="Rectángulo_401075" data-name="Rectángulo 401075" transform="translate(251.833 480)" fill="none" stroke="#26aab7" stroke-width="2">
+        <rect width="304" height="40" stroke="none"/>
+        <rect x="1" y="1" width="302" height="38" fill="none"/>
       </g>
+      <g id="Rectángulo_401191" data-name="Rectángulo 401191" transform="translate(669.333 467.413)" fill="none" stroke="#26aab7" stroke-width="2">
+        <rect width="304" height="40" stroke="none"/>
+        <rect x="1" y="1" width="302" height="38" fill="none"/>
+      </g>
+      <g id="Rectángulo_401271" data-name="Rectángulo 401271" transform="translate(1085.833 467.413)" fill="none" stroke="#26aab7" stroke-width="2">
+        <rect width="304" height="40" stroke="none"/>
+        <rect x="1" y="1" width="302" height="38" fill="none"/>
+      </g>
+      <g id="Rectángulo_401266" data-name="Rectángulo 401266" transform="translate(669.333 529.413)" fill="none" stroke="#7d6eb2" stroke-width="2">
+        <rect width="304" height="40" stroke="none"/>
+        <rect x="1" y="1" width="302" height="38" fill="none"/>
+      </g>
+      <g id="Rectángulo_401272" data-name="Rectángulo 401272" transform="translate(1070.059 529.413)" fill="none" stroke="#7d6eb2" stroke-width="2">
+        <rect width="334.549" height="40" stroke="none"/>
+        <rect x="1" y="1" width="332.549" height="38" fill="none"/>
+      </g>
+      <g id="Rectángulo_401267" data-name="Rectángulo 401267" transform="translate(669.333 591.413)" fill="none" stroke="#7d6eb2" stroke-width="2">
+        <rect width="304" height="40" stroke="none"/>
+        <rect x="1" y="1" width="302" height="38" fill="none"/>
+      </g>
+      <g id="Rectángulo_401269" data-name="Rectángulo 401269" transform="translate(669.333 715.913)" fill="none" stroke="#7d6eb2" stroke-width="2">
+        <rect width="304" height="40" stroke="none"/>
+        <rect x="1" y="1" width="302" height="38" fill="none"/>
+      </g>
+      <g id="Rectángulo_401270" data-name="Rectángulo 401270" transform="translate(616.333 778.413)" fill="none" stroke="#7d6eb2" stroke-width="2">
+        <rect width="408.666" height="40" stroke="none"/>
+        <rect x="1" y="1" width="406.666" height="38" fill="none"/>
+      </g>
+      <g id="Rectángulo_401268" data-name="Rectángulo 401268" transform="translate(652.333 653.413)" fill="none" stroke="#7d6eb2" stroke-width="2">
+        <rect width="338" height="40" stroke="none"/>
+        <rect x="1" y="1" width="336" height="38" fill="none"/>
+      </g>
+      <line id="Línea_139" data-name="Línea 139" y2="20.096" transform="translate(820.833 401.474)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_163" data-name="Línea 163" x2="834" transform="translate(403.833 420.979)" fill="none" stroke="#707070" stroke-width="1"/>
+      <text id="Plan_de_endomarketing" data-name="Plan de endomarketing" transform="translate(821.333 374)" fill="#fff" font-size="27" font-family="SegoeUIBlack, Segoe UI"><tspan x="-154.525" y="0">Plan de </tspan><tspan y="0" font-family="SegoeUIBlack-Italic, Segoe UI" font-style="italic">endomarketing</tspan></text>
+      <text id="Endomarketing" transform="translate(400.833 507)" fill="#12263f" font-size="18" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-59.005" y="0">Endomarketing</tspan></text>
+      <text id="La_comunicación_interna" data-name="La comunicación interna" transform="translate(821.333 494.413)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-96.565" y="0">La comunicación interna</tspan></text>
+      <text id="Plan_de_comunicación_interna" data-name="Plan de comunicación interna" transform="translate(1237.833 494.413)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-117.114" y="0">Plan de comunicación interna</tspan></text>
+      <text id="_Qué_es_la_comunicación_interna_" data-name="¿Qué es la comunicación interna?" transform="translate(821.333 556.413)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-132.618" y="0">¿Qué es la comunicación interna?</tspan></text>
+      <text id="Medios_para_la_comunicación_interna" data-name="Medios para la comunicación interna" transform="translate(1237.333 556.413)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-146.377" y="0">Medios para la comunicación interna</tspan></text>
+      <text id="Los_públicos_internos" data-name="Los públicos internos" transform="translate(821.333 618.413)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-83.887" y="0">Los públicos internos</tspan></text>
+      <text id="Rutas_de_la_información_interna" data-name="Rutas de la información interna" transform="translate(821.333 742.913)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-123.908" y="0">Rutas de la información interna</tspan></text>
+      <text id="Errores_y_obstáculos_de_la_comunicación_interna" data-name="Errores y obstáculos de la comunicación interna" transform="translate(821.333 805.413)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-189.004" y="0">Errores y obstáculos de la comunicación interna</tspan></text>
+      <text id="Mensajes_en_la_comunicación_interna" data-name="Mensajes en la comunicación interna" transform="translate(821.333 680.413)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-146.224" y="0">Mensajes en la comunicación interna</tspan></text>
+      <line id="Línea_189" data-name="Línea 189" y1="59" transform="translate(404.333 421.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_191" data-name="Línea 191" y2="47.413" transform="translate(820.833 421.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_1569" data-name="Línea 1569" y2="47.413" transform="translate(1237.333 421.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_1564" data-name="Línea 1564" y2="24" transform="translate(820.833 506.913)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_1570" data-name="Línea 1570" y2="24" transform="translate(1236.833 506.913)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_1565" data-name="Línea 1565" y2="24" transform="translate(820.833 568.913)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_1567" data-name="Línea 1567" y2="24" transform="translate(820.833 693.413)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_1568" data-name="Línea 1568" y2="24" transform="translate(820.833 755.913)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_1566" data-name="Línea 1566" y2="24" transform="translate(820.833 630.913)" fill="none" stroke="#707070" stroke-width="1"/>
     </g>
   </g>
 </svg>

@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Estructura del <i>brief</i>',
+    componenteFormativo: 'Plan de <i>Endomarketing</i>',
     descripcionCurso:
-      'El <i>brief</i> es un documento que suministra información de la empresa, el producto o servicio que se va a promocionar o para el que se realizarán estrategias de comunicación. Este documento es de estricto manejo entre la empresa y la agencia o del profesional de la publicidad, y es altamente confidencial entre ambas partes para garantizar un manejo idóneo de los datos.',
+      'El <i>marketing</i>, llevado al interior de la empresa, <i>marketing</i> de adentro hacia más adentro de la organización”, de esta forma se podría definir el <i>endomarketing</i>; sin embargo, en el presente componente, se ahondará desde el punto de vista de la comunicación interna, tratando de enfocarse en las relaciones que pueden existir entre los diferentes actores de una empresa.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -32,20 +32,14 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'El <i>brief</i>',
+        titulo: '<i>Endomarketing</i>',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Tipos de brief publicitarios',
-            hash: 't_1_1',
-          },
-        ],
+        subMenu: [{}],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Segmentación del mercado',
+        titulo: 'La comunicación interna',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -57,6 +51,24 @@ export default {
             numero: '2.2',
             titulo: 'Proceso de segmentación',
             hash: 't_2_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema3',
+        numero: '3',
+        titulo: 'Plan de comunicación interna',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Concepto de mercado',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Proceso de segmentación',
+            hash: 't_3_2',
           },
         ],
       },
