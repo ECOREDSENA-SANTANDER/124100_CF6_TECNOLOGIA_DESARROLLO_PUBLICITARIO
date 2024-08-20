@@ -34,7 +34,6 @@ export default {
         numero: '1',
         titulo: '<i>Endomarketing</i>',
         desarrolloContenidos: true,
-        subMenu: [{}],
       },
       {
         nombreRuta: 'tema2',

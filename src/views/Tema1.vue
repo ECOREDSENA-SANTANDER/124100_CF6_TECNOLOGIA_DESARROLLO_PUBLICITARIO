@@ -14,9 +14,15 @@
         
         .col-lg-4.col-8.col-sm-6
           img(src="@/assets/curso/temas/tema1/img01.png", alt="")
+
+      .row.justify-content-center.align-items-center.mb-5.fondoverde(data-aos="fade-left").p-4
+        .col-lg-4.col-8.col-sm-6
+          img(src="@/assets/curso/temas/tema1/img02.png", alt="")
+        .col-lg-8
+          p El #[em endomarketing] basa su estructura en el desarrollo de estrategias que permitan que los empleados de la empresa tengan sentido de pertenencia y que se conviertan en promotores de sus productos o servicios, aun estando en horarios no laborales o así sus obligaciones contractuales no tengan nada que ver con las ventas o la promoción. Esto se resume en una frase que el empresario Richard Branson tiene dentro de sus más célebres y que traza parte de su actuar como CEO de sus organizaciones: “Siempre he creído que la forma en la que tratas a tus empleados es la forma en la que ellos tratarán a tus clientes y que las personas florecen cuando se les alaba. Cuando tratamos bien a otras personas, estas tenderán a tratarnos de la misma forma, sean clientes o empleados, un empleado además puede ser un futuro cliente”.
+          p En una organización, la relación existente entre los miembros de ella, es el reflejo de lo que se hace con los clientes; pues un empleado satisfecho con el trato recibido, el salario y la buena relación con sus compañeros, recibirá a los clientes expresando esa satisfacción con una sonrisa y un trato amable; pero lo más importante, ese empleado va a hablar bien de su empresa, del producto que fabrican o del servicio que prestan y va a usar todos sus argumentos y conocimientos para ponerlos por encima de la competencia.
         
-         
-     
+    
 </template>
 
 <script>
