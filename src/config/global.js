@@ -43,13 +43,28 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Concepto de mercado',
+            titulo: '¿Qué es la comunicación interna?',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Proceso de segmentación',
+            titulo: 'Los públicos internos',
             hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Mensajes en la comunicación interna',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Rutas de la información interna',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Errores y obstáculos de la comunicación interna',
+            hash: 't_2_5',
           },
         ],
       },
@@ -61,13 +76,8 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Concepto de mercado',
+            titulo: ' Medios para la comunicación interna',
             hash: 't_3_1',
-          },
-          {
-            numero: '3.2',
-            titulo: 'Proceso de segmentación',
-            hash: 't_3_2',
           },
         ],
       },
