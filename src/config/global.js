@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Plan de <i>Endomarketing</i>',
     descripcionCurso:
       'El <i>marketing</i>, llevado al interior de la empresa, <i>marketing</i> de adentro hacia más adentro de la organización”, de esta forma se podría definir el <i>endomarketing</i>; sin embargo, en el presente componente, se ahondará desde el punto de vista de la comunicación interna, tratando de enfocarse en las relaciones que pueden existir entre los diferentes actores de una empresa.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -87,6 +87,7 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'actividad',

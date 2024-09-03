@@ -5,10 +5,11 @@
 
     .row.justify-content-center
       .col-lg-12.mb-5
+        img(src="@/assets/curso/titulo.svg", alt="alt")
         figure
           img(src="@/assets/curso/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
