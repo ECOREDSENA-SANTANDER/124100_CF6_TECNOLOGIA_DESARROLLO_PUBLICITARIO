@@ -10,7 +10,7 @@
             img(src="@/assets/template/seleccion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 ¿Qué tanto sabes Endomarketing?
+          h2 ¿Qué tanto sabes del Endomarketing?
         p.mb-4 El objetivo de la actividad es que el aprendiz afiance conocimientos acerca del endomarketing y la comunicación hacia el interior
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

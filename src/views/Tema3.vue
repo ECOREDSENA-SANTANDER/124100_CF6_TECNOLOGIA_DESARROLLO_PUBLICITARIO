@@ -109,7 +109,7 @@
                 .col-lg-8.fondo-morado.p-1
                   h4.text-center.text-white Medición
                 .py-2
-                  p.text-center Es importante contar con un sistema de feedback que permita medir la respuesta de los empleados y colaboradores a la comunicación interna de la empresa.
+                  p.text-center Es importante contar con un sistema de #[em feedback] que permita medir la respuesta de los empleados y colaboradores a la comunicación interna de la empresa.
 
       Separador
       #t_3_1.titulo-segundo.color-secundario
@@ -132,14 +132,14 @@
                 .row.justify-content-center.align-items-center.p-1
                   .col-lg-7.p-4
                       h4 #[em Blogs]
-                      p Son una potente herramienta de comunicación interna que permite a la organización mantener informados a sus empleados y tener un feedback (participación) en tiempo real, no solo con sus comentarios, sino también con las estadísticas que se generan sobre su utilización, contenidos más consultados o comentados, temas de interés, usuarios más activos, franjas de mayor acceso, etc.Se produce cuando directivos y mandos medios generan información hacia los empleados, estos pueden contener información de tipo organizacional o corporativa.
+                      p Son una potente herramienta de comunicación interna que permite a la organización mantener informados a sus empleados y tener un #[em feedback] (participación) en tiempo real, no solo con sus comentarios, sino también con las estadísticas que se generan sobre su utilización, contenidos más consultados o comentados, temas de interés, usuarios más activos, franjas de mayor acceso, etc.Se produce cuando directivos y mandos medios generan información hacia los empleados, estos pueden contener información de tipo organizacional o corporativa.
                   .col-lg-5.p-4.col-sm-8
                     img(src='@/assets/curso/temas/tema3/img3.png')
                 
                 .row.justify-content-center.align-items-center.p-1
                   .col-lg-7.p-4
                       h4 #[em Mailing]
-                      p Es uno de los canales preferidos, posiblemente por su simplicidad y su carácter de índole pasiva de cara al lector: no se requiere nada, el correo electrónico simplemente aparece en cada bandeja de entrada. No hay que buscar información, la información llega y esto, en ciertas culturas corporativas, puede ser útil. La recomendación es que los correos electrónicos formales estén formateados y enviados desde una plataforma de e-mail marketing que arroje indicadores.
+                      p Es uno de los canales preferidos, posiblemente por su simplicidad y su carácter de índole pasiva de cara al lector: no se requiere nada, el correo electrónico simplemente aparece en cada bandeja de entrada. No hay que buscar información, la información llega y esto, en ciertas culturas corporativas, puede ser útil. La recomendación es que los correos electrónicos formales estén formateados y enviados desde una plataforma de #[em e-mail marketing] que arroje indicadores.
                   .col-lg-5.p-4.col-sm-8
                     img(src='@/assets/curso/temas/tema3/img4.png')
 
@@ -168,7 +168,7 @@
                 .row.justify-content-center.align-items-center.p-1
                   .col-lg-7.p-4
                       h4 Reuniones informativas
-                      p Son muy eficaces en términos comunicativos; después de todo, no es lo mismo leer o escuchar, que vivir algo en carne propia. Podría tratarse de reuniones de carácter general, eventos o bien de reuniones más reducidas. Incluso aquellas otras en las que la transmisión de los mensajes se realiza mediante la interlocución directa, propia de los sistemas de comunicación descendente. En la nueva era de la información, este tipo de reuniones se están desarrollando a través de plataformas webinar que permiten conectar a grupos amplios de personas en el tiempo real en que se encuentren en cualquier lugar del mundo.
+                      p Son muy eficaces en términos comunicativos; después de todo, no es lo mismo leer o escuchar, que vivir algo en carne propia. Podría tratarse de reuniones de carácter general, eventos o bien de reuniones más reducidas. Incluso aquellas otras en las que la transmisión de los mensajes se realiza mediante la interlocución directa, propia de los sistemas de comunicación descendente. En la nueva era de la información, este tipo de reuniones se están desarrollando a través de plataformas #[em webinar] que permiten conectar a grupos amplios de personas en el tiempo real en que se encuentren en cualquier lugar del mundo.
                   .col-lg-5.p-4.col-sm-8
                     img(src='@/assets/curso/temas/tema3/img5.png')
         

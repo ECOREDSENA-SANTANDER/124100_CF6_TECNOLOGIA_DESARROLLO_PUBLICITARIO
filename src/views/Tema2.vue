@@ -16,7 +16,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img01.png')})`}"
             )
             .bloque-texto-g__texto.dos.p-4
-              p.mb-0 Cómo ya se dijo anteriormente, se centrará el tema en la comunicación hacia el interior de la empresa, una actividad cada vez más frecuente y que ha generado frutos en el desarrollo de las estrategias de marketing relacional.
+              p.mb-0 Cómo ya se dijo anteriormente, se centrará el tema en la comunicación hacia el interior de la empresa, una actividad cada vez más frecuente y que ha generado frutos en el desarrollo de las estrategias de #[em marketing] relacional.
       
       
       
@@ -25,7 +25,7 @@
       #t_2_1.titulo-segundo.color-secundario
         h2 2.1 ¿Qué es la comunicación interna?
       
-      p Para dar un primer acercamiento a la comunicación interna según la Guía fundamental de la comunicación interna (2018), es necesario poner un contexto, ya que para algunos expertos en marketing está en manos de las relaciones públicas, toda vez que el target al que se dirige tiene características similares en cuanto a sus intereses y algunas de sus prioridades y una misma identidad social que gira en torno a la empresa en la que se labora; diversos estudios empíricos explicitan que, cuanto mejor informada está una persona, más motivada estará para realizar su trabajo de manera correcta y eficazmente, porque comprenderá y asignará mayor sentido a sus tareas.
+      p Para dar un primer acercamiento a la comunicación interna según la Guía fundamental de la comunicación interna (2018), es necesario poner un contexto, ya que para algunos expertos en #[em marketing] está en manos de las relaciones públicas, toda vez que el target al que se dirige tiene características similares en cuanto a sus intereses y algunas de sus prioridades y una misma identidad social que gira en torno a la empresa en la que se labora; diversos estudios empíricos explicitan que, cuanto mejor informada está una persona, más motivada estará para realizar su trabajo de manera correcta y eficazmente, porque comprenderá y asignará mayor sentido a sus tareas.
       .row.mb-5
         .col-lg-4.col-sm-7
           h3 Enfoques de la comunicación interna
@@ -44,7 +44,7 @@
                 .col-lg-12
                   br
                   br
-                  p.p-4 Promueve el uso adecuado de los elementos de identidad corporativa de la empresa.e viene?, ¿qué lo hace único en la historia?.
+                  p.p-4 Promueve el uso adecuado de los elementos de identidad corporativa de la empresa.e viene?, ¿qué lo hace único en la historia?
               
               .row.p-1
                 .col-lg-12
@@ -176,7 +176,7 @@
               | #[b La comunicación corporativa:] implica un mayor despliegue creativo toda vez que se encarga de informar acerca de eventos, novedades en el personal, instalaciones, infraestructura, datos relacionados con la cultura empresarial, entre otros. 
 
       .py-2
-        P Los mensajes por lo tanto son la punta del iceberg en el proceso comunicativo interno, pero al mismo tiempo son la puerta de acceso a la interacción entre directivos y clientes. En ese orden de ideas, los mensajes se pueden dividir en dos clases:
+        P Los mensajes por lo tanto son la punta del #[em iceberg] en el proceso comunicativo interno, pero al mismo tiempo son la puerta de acceso a la interacción entre directivos y clientes. En ese orden de ideas, los mensajes se pueden dividir en dos clases:
       .tarjeta--container.row.mb-2
         .col-md.tarjeta.color-primario.pri8.p-5.pp
           .row.justify-content.mb-3
@@ -242,7 +242,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/ico4.png', alt='Texto que describa la imagen')
                 .col-md-9.mb-4.mb-md-0
-                  p.p-4 #[b No tener una estrategia:] en cualquier proceso de comunicación se va a dar la necesidad de desarrollar varios mensajes y utilizar una serie de medios, si se lanza el mensaje sin tener una estrategia clara en estos aspectos mínimos, el esfuerzo puede ser infructuoso o llegar a demandar más tiempo de lo que requiere.
+                  p.p-4 En cualquier proceso de comunicación se va a dar la necesidad de desarrollar varios mensajes y utilizar una serie de medios, si se lanza el mensaje sin tener una estrategia clara en estos aspectos mínimos, el esfuerzo puede ser infructuoso o llegar a demandar más tiempo de lo que requiere.
               
             .py-4.py-md-5(titulo="Saturación de mensajes" :icono="require('@/assets/curso/temas/tema2/2.png')")
               .row.justify-content-center.align-items-center.mb-5
@@ -250,7 +250,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/ico5.png', alt='Texto que describa la imagen')
                 .col-md-9.mb-4.mb-md-0
-                  p.p-4 #[b Saturación de mensajes:] un plan correcto debería garantizar que con cierto número de mensajes se llegue al público seleccionado de forma clara y directa, la sobrecarga puede afectar la credibilidad y el interés por la comunicación en general.
+                  p.p-4 Un plan correcto debería garantizar que con cierto número de mensajes se llegue al público seleccionado de forma clara y directa, la sobrecarga puede afectar la credibilidad y el interés por la comunicación en general.
             
             .py-4.py-md-5(titulo="No medir efectividad" :icono="require('@/assets/curso/temas/tema2/3.png')")
               .row.justify-content-center.align-items-center.mb-5
@@ -258,7 +258,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/ico6.png', alt='Texto que describa la imagen')
                 .col-md-9.mb-4.mb-md-0
-                  p.p-4 #[b No medir efectividad:] la medición de comunicación es indispensable para determinar si los medios utilizados fueron los adecuados y el mensaje es comprensible; este tipo de mediciones se pueden realizar a través de mecanismos de feedback. Es importante tener claros los indicadores que se van a medir en cada comunicación.
+                  p.p-4 La medición de comunicación es indispensable para determinar si los medios utilizados fueron los adecuados y el mensaje es comprensible; este tipo de mediciones se pueden realizar a través de mecanismos de #[em feedback]. Es importante tener claros los indicadores que se van a medir en cada comunicación.
             
             .py-4.py-md-5(titulo="Incorrecta selección de los medios" :icono="require('@/assets/curso/temas/tema2/4.png')")
               .row.justify-content-center.align-items-center.mb-5
@@ -266,7 +266,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/ico7.png', alt='Texto que describa la imagen')
                 .col-md-9.mb-4.mb-md-0
-                  p.p-4 #[b Incorrecta selección de los medios:] los canales por los que el mensaje debe llegar al público, son muy importantes para garantizar la efectividad de la comunicación, ya que un canal inadecuado puede generar una entrega errónea del mensaje.
+                  p.p-4 Los canales por los que el mensaje debe llegar al público, son muy importantes para garantizar la efectividad de la comunicación, ya que un canal inadecuado puede generar una entrega errónea del mensaje.
             
             .py-4.py-md-5(titulo="No contar con recursos" :icono="require('@/assets/curso/temas/tema2/5.png')")
               .row.justify-content-center.align-items-center.mb-5
@@ -274,7 +274,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/ico8.png', alt='Texto que describa la imagen')
                 .col-md-9.mb-4.mb-md-0
-                  p.p-4 #[b No contar con recursos:] las empresas deben ser conscientes que la comunicación a cualquier nivel requiere una serie de recursos y elementos para que pueda ser efectiva; es necesario contar con equipos que permitan la producción de contenidos y piezas gráficas que permitan el diseño de mensajes más persuasivos y efectivos.
+                  p.p-4 Las empresas deben ser conscientes que la comunicación a cualquier nivel requiere una serie de recursos y elementos para que pueda ser efectiva; es necesario contar con equipos que permitan la producción de contenidos y piezas gráficas que permitan el diseño de mensajes más persuasivos y efectivos.
            
            
 
