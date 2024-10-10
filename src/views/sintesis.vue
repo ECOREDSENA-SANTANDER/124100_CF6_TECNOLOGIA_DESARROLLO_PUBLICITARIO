@@ -5,7 +5,7 @@
 
     .row.justify-content-center
       .col-lg-12.mb-5
-        img(src="@/assets/curso/titulo.svg", alt="alt")
+        p En este componente, se desarrollaron conceptos de endomarketing desde la comunicación interna, resaltando la importanciade las relaciones que existen entre las personas que participan en el proceso de marketing de la empresa. A continuación, se presenta un diagrama donde se enuncian los conceptos y temas más relevantes tratados en el componente. 
         figure
           img(src="@/assets/curso/sintesis.svg", alt="alt")
       .col-auto

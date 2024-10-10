@@ -132,7 +132,7 @@
                 .row.justify-content-center.align-items-center.p-1
                   .col-lg-7.p-4
                       h4 #[em Blogs]
-                      p Son una potente herramienta de comunicación interna que permite a la organización mantener informados a sus empleados y tener un #[em feedback] (participación) en tiempo real, no solo con sus comentarios, sino también con las estadísticas que se generan sobre su utilización, contenidos más consultados o comentados, temas de interés, usuarios más activos, franjas de mayor acceso, etc.Se produce cuando directivos y mandos medios generan información hacia los empleados, estos pueden contener información de tipo organizacional o corporativa.
+                      p Son una potente herramienta de comunicación interna que permite a la organización mantener informados a sus empleados y tener un #[em feedback] (participación) en tiempo real, no solo con sus comentarios, sino también con las estadísticas que se generan sobre su utilización, contenidos más consultados o comentados, temas de interés, usuarios más activos, franjas de mayor acceso, etc.
                   .col-lg-5.p-4.col-sm-8
                     img(src='@/assets/curso/temas/tema3/img3.png')
                 

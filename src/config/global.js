@@ -125,109 +125,80 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Castelló, A. Pino, C. (2019). De la Publicidad a la Comunicación Persuasiva. Esic Editorial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cuenca, J. y Verazzi, L. (2018). Guía Fundamental de la Comunicación Interna. Editorial UOC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Davara, A. M. (1992). Estrategias de Comunicación en Marketing. Edit. DOSSAT S.A.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gan, F. y Triginé, J. (2012). Comunicación Interna. Ediciones Díaz de Santos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Téllez, J. C. (2017). ¿Qué es eso llamado “Endomarketing”? Revista Semana.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.dinero.com/opinion/columnistas/articulo/que-es-eso-llamado-endomarketing-por-juan-sanclemente/243285',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Timoteo, A. J. (2013). Manejo de la Comunicación Organizacional. Ediciones Díaz de Santos.',
+      link: '',
     },
     {
-      referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+      referencia: 'Vila, F. (2013). Comunicación Estratégica. Editorial UOC.',
+      link: '',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Afiche (poster)',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es un tipo de aviso que comunica acerca de un evento futuro y que por lo general tiene un tamaño considerable y un concepto creativo para que sea apreciado por el público objetivo.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: '<i>Banner</i>',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Elemento con una imagen o animaciones que se ubica en sitios web, en la mayoría de los casos es con publicidad.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Comunicación integral',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Abarca todo el proceso de comunicación externa (clientes, proveedores, instituciones, etc.) e interna (trabajadores y colaboradores).',
     },
     {
-      termino: '<em>Áctores</em>',
+      termino: 'Comunicado de prensa',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Informe que reúne los datos fundamentales sobre un hecho noticiable de actualidad y que se envía a los medios de comunicación con el fin de que estos difundan la información.',
     },
     {
-      termino: 'Moda',
+      termino: 'Folleto (<i>brochure</i>)',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Elemento impreso de una o pocas hojas que sirve como instrumento divulgativo o publicitario.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Relaciones públicas',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Técnica de comunicación que evalúa las actitudes de los diferentes públicos, identifica las políticas y los procedimientos de una organización y ejecuta programas de comunicación dirigidos a públicos tanto internos como externos.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Revista',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Publicación ilustrada que se entrega en forma periódica, sobre uno o varios temas y con un público definido.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Sitio web',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Agrupación de varias páginas web relacionadas entre sí, a las cuales se ingresa desde un mismo dominio y están ligadas a una misma URL.',
     },
   ],
 
@@ -277,7 +248,7 @@ export default {
           fecha: 'Mayo de 2020',
         },
         {
-          nombre: 'Sandra Paola Morales Páez',
+          nombre: 'Carolina Jiménez Suescun',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
           fecha: 'Mayo,2024',
