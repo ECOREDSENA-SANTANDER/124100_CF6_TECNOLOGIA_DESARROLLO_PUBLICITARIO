@@ -44,7 +44,7 @@
                 .col-lg-12
                   br
                   br
-                  p.p-4 Promueve el uso adecuado de los elementos de identidad corporativa de la empresa.e viene?, ¿qué lo hace único en la historia?
+                  p.p-4 Promueve el uso adecuado de los elementos de identidad corporativa de la empresa, ¿qué lo hace único en la historia?
               
               .row.p-1
                 .col-lg-12

@@ -8,11 +8,11 @@
         span
           i.fas.fa-info
       h1 Introducción
-    
+    p Le invitamos a consultar atentamente el video que se presenta a continuación, el cual ilustra sobre el #[em endomarketing] como estrategia enfocada en mejorar la comunicación interna, la cultura y la productividad organizacional.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/BBWKIpyMK1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Plan de endomarketing
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/FGED5DiHFlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Plan de #[em endomarketing]
     
 
 </template>
