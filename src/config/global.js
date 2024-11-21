@@ -108,7 +108,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF6_124100_CFA.zip',
+        download: 'downloads/CF6_124100_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -196,9 +196,9 @@ export default {
         'Publicación ilustrada que se entrega en forma periódica, sobre uno o varios temas y con un público definido.',
     },
     {
-      termino: 'Sitio web',
+      termino: 'Sitio <i>web</i>',
       significado:
-        'Agrupación de varias páginas web relacionadas entre sí, a las cuales se ingresa desde un mismo dominio y están ligadas a una misma URL.',
+        'Agrupación de varias páginas <i>web</i> relacionadas entre sí, a las cuales se ingresa desde un mismo dominio y están ligadas a una misma URL.',
     },
   ],
 

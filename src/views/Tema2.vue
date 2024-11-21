@@ -30,7 +30,7 @@
         .col-lg-4.col-sm-7
           h3 Enfoques de la comunicación interna
           img(src="@/assets/curso/linea.png", alt="")
-      p Las necesidades de comunicación al interior de una empresa son diversas, de ahí que muchas organizaciones dependiendo de su tamaño tienen un equipo dedicado de forma exclusiva y permanente, al desarrollo de estrategias de comunicación dirigida a los empleados y los colaboradores. 
+      p Las necesidades de comunicación al interior de una empresa son diversas, de ahí que muchas organizaciones, dependiendo de su tamaño, tienen un equipo dedicado de forma exclusiva y permanente, al desarrollo de estrategias de comunicación dirigida a los empleados y los colaboradores. 
       p La comunicación interna puede tener varios enfoques, de acuerdo con las necesidades de información que presente el público interno de una empresa. Uno muy común es el relacionado con las funciones en cada uno de los cargos; en este sentido, hay un trabajo arduo en comunicación que va desde el diseño de manuales de funciones, hasta estrategias de motivación para generar eficiencia. Otro enfoque es el relacionado con la entrega de valor de la empresa en el mercado; es decir, todo lo concerniente con la función de la empresa en el mercado, el aporte a la sociedad y las razones por las que los clientes compran o usan sus productos o servicios. Un tercer enfoque es el relacionado con lo institucional; este tiene que ver con los programas de bienestar empresarial y con los procesos administrativos, los sistemas de calidad, los formatos y los protocolos. 
       p Teniendo en cuenta lo anterior, la comunicación interna tiene una serie de funciones que se describirán a continuación:
 
@@ -126,7 +126,7 @@
                   .col-lg-8.fondo-morado.p-1
                     h4.text-center.text-white Heterogéneos
                   .py-2
-                    p.text-center Si bien los une elementos en común como la empresa y sus labores dentro de ella, son diversos en cuanto a sus características personales.
+                    p.text-center Si bien los une elementos en común, como la empresa y sus labores dentro de ella, son diversos en cuanto a sus características personales.
                   
               .tarjeta.color-secundario-cus.p-4
                 .row.justify-content-center.mb-3
@@ -146,7 +146,7 @@
                   .col-lg-8.fondo-morado.p-1
                     h4.text-center.text-white Interconectado
                   .py-2
-                    p.text-center Independiente de a donde pertenezca un grupo o individuo, pueden y deben en muchas ocasiones hacer parte de otros o de grupos alternos constituidos por individuos de diferentes áreas para realizar tareas puntuales.
+                    p.text-center Independiente de a dónde pertenezca un grupo o individuo, pueden y deben en muchas ocasiones hacer parte de otros o de grupos alternos constituidos por individuos de diferentes áreas para realizar tareas puntuales.
               
               .tarjeta.color-secundario-cus.p-4
                 .row.justify-content-center.mb-3
@@ -176,7 +176,7 @@
               | #[b La comunicación corporativa:] implica un mayor despliegue creativo toda vez que se encarga de informar acerca de eventos, novedades en el personal, instalaciones, infraestructura, datos relacionados con la cultura empresarial, entre otros. 
 
       .py-2
-        P Los mensajes por lo tanto son la punta del #[em iceberg] en el proceso comunicativo interno, pero al mismo tiempo son la puerta de acceso a la interacción entre directivos y clientes. En ese orden de ideas, los mensajes se pueden dividir en dos clases:
+        P Los mensajes, por lo tanto, son la punta del #[em iceberg] en el proceso comunicativo interno, pero al mismo tiempo son la puerta de acceso a la interacción entre directivos y clientes. En ese orden de ideas, los mensajes se pueden dividir en dos clases:
       .tarjeta--container.row.mb-2
         .col-md.tarjeta.color-primario.pri8.p-5.pp
           .row.justify-content.mb-3
@@ -192,7 +192,7 @@
                 img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/temas/tema2/img11.png', alt='Texto que describa la imagen')
           h3.text-white Mensajes segmentados
           p.text-white Van dirigidos a grupos específicos, áreas o departamentos. Estos mensajes siempre tienen un objetivo concreto y por lo general requieren de una estructura mediática, diseño y concepto. Por ejemplo, la divulgación de un manual de funciones de un área específica o el desarrollo de una capacitación en particular.
-      
+      .py-2
       p Es importante tener claro que independiente del tipo de mensaje que se genere, la información y la manera como se entregue debe proporcionar credibilidad; este factor implica que los empleados poco a poco tengan mayor confianza en la organización y en sus directivos. 
       p Por último, la información que se proporcione debe llegar en momentos claves y de acuerdo con una programación estructurada con las características de los diferentes grupos. Es clave entender en qué horario el público está en disposición de recibir y atender un mensaje, esto implica también que algunos medios permiten una interacción inmediata y otros lapsos más prolongados entre la emisión y la respuesta. Es importante que quien genere la información tenga claro el horario laboral y el familiar para la entrega de la información. 
       
